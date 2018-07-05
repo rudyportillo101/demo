@@ -1,5 +1,4 @@
-[
-    {
+{
         "id":1,
         "image":"../images/galleries/collection-love.jpg",
         "title":"Love",
@@ -39,5 +38,3 @@
         "url":"",
         "column":"3"
     }
-
-]
